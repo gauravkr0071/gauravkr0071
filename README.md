@@ -28,5 +28,5 @@ In my free time i like to do leetcoding, wasting time learning new algos and day
 My life long dream is to give machines a sense of conciousness. Wait, do we understand conciousness enough ?. well thats, debatable
 
 Want to collaborate with me on something ? drop me a mail
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7Gbu&psig=AOvVaw1SLob7R6KUhadYmIO2DupH&ust=1630949936231000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC8nZCw6PICFQAAAAAdAAAAABAD
+<div style="padding-top:65.625%;position:relative;"><iframe src="https://gifer.com/embed/7Gbu" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
