@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ⚡ Latest Updates : Glad to inform you that my paper on "__Fault diagnosis of Machines using Deep Convolutional Beta-Variational Autoencoder__" has been accepted by __IEEE Transactions on Artificial intelligence__ on 4th sept 2021. It will take some time for IEEE team to publish on ieee sites. Codes and tutorial of this paper will be uploaded [here](https://github.com/gauravkr0071/beta-VAE) soon.   
 
 ⭐⭐⭐⭐⭐   Keras \
-⭐⭐⭐⭐ _   Scikit-Learn \
-⭐⭐⭐⭐ _   Matplotlib \
-⭐⭐⭐ _ _   Numpy \
-⭐⭐⭐ _ _   TensorFlow \
-⭐⭐ _ _ _    Pytroch \
+⭐⭐⭐⭐     Scikit-Learn \
+⭐⭐⭐⭐     Matplotlib \
+⭐⭐⭐       Numpy \
+⭐⭐⭐       TensorFlow \
+⭐⭐          Pytroch 
 
 ![image](https://user-images.githubusercontent.com/51910127/131247283-c0e1de57-58e0-4f93-8a20-419ded899771.png)
 ![image](https://user-images.githubusercontent.com/51910127/131247297-a563ad68-dfcb-43dc-b406-c6a598a93300.png)
