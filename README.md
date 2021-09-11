@@ -25,7 +25,7 @@ Currently, i am trying to blend manual Statistical method into Deep Generative M
 
 In my free time i like to do leetcoding, wasting time learning new algos and day dreaming about the work going on DeepMind.
 
-My life long dream is to give machines a sense of conciousness. Wait, do we understand conciousness enough ?. well thats, debatable
+_My life long dream is to give machines a sense of conciousness. Wait, do we understand conciousness enough ?. well thats, debatable_
 
-Want to collaborate with me on something ? drop me a mail
+_Want to collaborate with me on something ? drop me a mail_
 
